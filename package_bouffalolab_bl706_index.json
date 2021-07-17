@@ -14,13 +14,13 @@
       [ 
         {
           "name":"bl706_iot",
-          "architecture":"riscv",
+          "architecture":"bl706",
           "version":"0.0.1",
           "category":"MCU",
           "url":"https://raw.githubusercontent.com/strongwong/bl_arduino/main/bl702_core_0.0.1.tar.bz2",
           "archiveFileName":"bl702_core_0.0.1.tar.bz2",
-          "checksum":"SHA-256:d6e4e37971369b7e181bde9ffd715299377fba935171fc38a8e54cb7c0a27905",
-          "size":"405885",
+          "checksum":"SHA-256:0663215de5da23b430a8b5222449fd26fd64c3acc656f63951beb7108c2307f9",
+          "size":"405788",
           "help":
           {
             "online":"https://blog.strongwong.top"

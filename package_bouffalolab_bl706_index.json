@@ -63,8 +63,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/strongwong/bl_arduino/main/bflb_binsize_0.0.1.tar.bz2",
                 "archiveFileName": "bflb_binsize_0.0.1.tar.bz2",
-                "checksum": "SHA-256:69fc26cf0ec86ec7c20d66a405161301b58457617aaa34a5d56e81119c39b0bf",
-                "size": "6344402"
+                "checksum": "SHA-256:d5bb478edfdde5030e2e88ff714bc9ccffa25eda7b5ffcb151e00b19829716a6",
+                "size": "6343633"
               }
             ]
         },  
@@ -76,8 +76,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/strongwong/bl_arduino/main/bflb_flashload_0.0.1.tar.bz2",
                 "archiveFileName": "bflb_flashload_0.0.1.tar.bz2",
-                "checksum": "SHA-256:8b170110894eeabc8557d9617a4b61a29fef124d1a43aabc1de9f5ff37e350f5",
-                "size": "56333352"
+                "checksum": "SHA-256:b7647577010c5d1029951022ab3e8f5aaa9318323aed2fe948a6b2e868e41e62",
+                "size": "31870222"
               }
             ]
         },
@@ -89,8 +89,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/strongwong/bl_arduino/main/bflb_complier_0.0.1.tar.bz2",
                 "archiveFileName": "bflb_complier_0.0.1.tar.bz2",
-                "checksum": "SHA-256:04dd91537fffcba59a183aa3d83589c2608fda51d4fd911c32997d1da51a8e2e",
-                "size": "456650"
+                "checksum": "SHA-256:38712b3afe28d81ad7af72a3438c61d902ffa616633026cd85eac25f90727087",
+                "size": "456573"
               }
             ]
         }   

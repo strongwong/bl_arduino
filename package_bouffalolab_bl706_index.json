@@ -87,10 +87,10 @@
             "systems": [
               {
                 "host": "i686-mingw32",
-                "url": "https://raw.githubusercontent.com/strongwong/bl_arduino/main/bflb_complier_0.0.1.tar.bz2",
-                "archiveFileName": "bflb_complier_0.0.1.tar.bz2",
-                "checksum": "SHA-256:38712b3afe28d81ad7af72a3438c61d902ffa616633026cd85eac25f90727087",
-                "size": "456573"
+                "url": "https://dev.bouffalolab.com/media/upload/download/bflb_compiler_0.0.1.tar.bz2",
+                "archiveFileName": "bflb_compiler_0.0.1.tar.bz2",
+                "checksum": "SHA-256:4c38f514edf46fab9acc28c4bfa41ef2cad62ffa9affb2baca67c16135649457",
+                "size": "157534256"
               }
             ]
         }   

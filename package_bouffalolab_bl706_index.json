@@ -19,8 +19,8 @@
           "category":"MCU",
           "url":"https://raw.githubusercontent.com/strongwong/bl_arduino/main/bl702_core_0.0.1.tar.bz2",
           "archiveFileName":"bl702_core_0.0.1.tar.bz2",
-          "checksum":"SHA-256:bd04b605c4352ad022bb03b5e301d64441b42209458cbf0a511a659296062a31",
-          "size":"665183",
+          "checksum":"SHA-256:8f9f7409ab8a89199801691a88e64e50d9bd3852a5daf1a60654d4ba7d188239",
+          "size":"654939",
           "help":
           {
             "online":"https://blog.strongwong.top"
